@@ -10,3 +10,4 @@ O objetivo desse jogo é ensinar conceitos básicos durante a criação de um jo
 - UI com pontuação e vida
 - Picukps
 
+Assets: [Super Platformer Engine](https://assetstore.unity.com/packages/2d/environments/super-platformer-assets-42013#reviews)
